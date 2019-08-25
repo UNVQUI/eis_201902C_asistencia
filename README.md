@@ -9,6 +9,10 @@ Propósito: Ejercitar utilización de git.
 3. Agregar el comentario de commit utilizando como leyenda `Legajo - Apellido`.
 4. Subir los cambios al repositorio.
 
+## Forma de entrega:
+
+Para hacer la entrega de la actividad en el campus de la materia van a necesitar agregar el link al commit que contiene lo que se detalla en el punto 3 del apartado anterior.
+
 ## Sugerencias:
 
 - Tener en cuenta que van a existir varias personas subiendo cambios al mismo archivo y por tanto es probable que ocurran conflictos. La forma de subsanar estos problemas es realizando una mezcla de archivos.
