@@ -2,6 +2,8 @@
 
 Propósito: Ejercitar utilización de git.
 
+*IMPORTANTE*: Debe haber resulto la actividad _Registrarse en github.com_ antes de resolver la presente.
+
 ## Detalles de la actividad
 
 1. Clonarse el repositorio.
