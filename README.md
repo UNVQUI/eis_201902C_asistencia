@@ -21,6 +21,26 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 
 ## Lista de alumnos 
 
-| Legajo | Nombre y Apellido | 04/09/2019 |
-| :----: | :---------------: | :--------: |
-| 12345  | Prueba            |   P        |
+| Legajo | Nombre y Apellido                     | 11/09/2019 |
+| :----: | :-----------------------------------: | :--------: |
+| 12345  | Prueba                                |   P        |
+|        | Aranguren, Cristian Martin            |            |
+|        | Bianchi, Mauricio Osvaldo             |            |
+|        | Bianchi, Matias Ezequiel              |            |
+|        | Cameriere, Federico                   |            |
+|        | Chaile, Matias Ezequiel               |            |
+|        | Di Carlo, Leonardo Esteban            |            |
+|        | Gerez, Erica Vanesa                   |            |
+|        | Guasch, Gonzalo                       |            |
+|        | Lajcha, Juliana Andrea                |            |
+|        | Lattanzio, Bruno Joaquin              |            |
+|        | Maia, Jonathan Nicolas                |            |
+|        | Mamani Jatabe, Luis Alejandro         |            |
+|        | Marino, Mauro Emanuel                 |            |
+|        | Martinez Peck, Pedro                  |            |
+|        | Moscatelli, Nahuel Agustin            |            |
+|        | Pais, Mariano Alberto                 |            |
+|        | Sanchez, Federico Matias              |            |
+|        | San Martin Farias, Ivan Joshua        |            |
+|        | Valenzuela, Horacio Ezequiel          |            |
+|        | Villegas, Carlos Daniel Alejandro     |            |
