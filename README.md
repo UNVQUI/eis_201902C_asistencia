@@ -38,7 +38,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 |        | Lattanzio, Bruno Joaquin              |            |
 |        | Maia, Jonathan Nicolas                |            |
 |        | Mamani Jatabe, Luis Alejandro         |            |
-|        | Marino, Mauro Emanuel                 |            |
+|  33450 | Marino, Mauro Emanuel                 |     P      |
 |        | Martinez Peck, Pedro                  |            |
 |        | Moscatelli, Nahuel Agustin            |            |
 |        | Pais, Mariano Alberto                 |            |
