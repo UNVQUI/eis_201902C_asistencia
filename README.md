@@ -37,7 +37,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 |        | Lajcha, Juliana Andrea                |            |
 |        | Lattanzio, Bruno Joaquin              |            |
 | 29722  | Maia, Jonathan Nicolas                |     P      |
-|        | Mamani Jatabe, Luis Alejandro         |            |
+| 35327  | Mamani Jatabe, Luis Alejandro         |    P       |
 |        | Marino, Mauro Emanuel                 |            |
 |        | Martinez Peck, Pedro                  |            |
 |        | Moscatelli, Nahuel Agustin            |            |
