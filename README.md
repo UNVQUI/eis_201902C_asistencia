@@ -36,7 +36,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 |        | Guasch, Gonzalo                       |            |
 |        | Lajcha, Juliana Andrea                |            |
 |        | Lattanzio, Bruno Joaquin              |            |
-|        | Maia, Jonathan Nicolas                |            |
+| 29722  | Maia, Jonathan Nicolas                |     P      |
 |        | Mamani Jatabe, Luis Alejandro         |            |
 |        | Marino, Mauro Emanuel                 |            |
 |        | Martinez Peck, Pedro                  |            |
