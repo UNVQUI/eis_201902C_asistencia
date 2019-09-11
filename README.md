@@ -46,3 +46,4 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 |        | San Martin Farias, Ivan Joshua        |            |
 |        | Valenzuela, Horacio Ezequiel          |            |
 |        | Villegas, Carlos Daniel Alejandro     |            |
+| 39804  | Garay, Juan Gabriel                   | P          |
