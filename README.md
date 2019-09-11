@@ -34,7 +34,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 |        | Di Carlo, Leonardo Esteban            |            |
 |        | Gerez, Erica Vanesa                   |            |
 |        | Guasch, Gonzalo                       |            |
-|        | Lajcha, Juliana Andrea                |            |
+|        | Lajcha, Juliana Andrea                |   P        |
 |        | Lattanzio, Bruno Joaquin              |            |
 | 29722  | Maia, Jonathan Nicolas                |     P      |
 | 35327  | Mamani Jatabe, Luis Alejandro         |    P       |
