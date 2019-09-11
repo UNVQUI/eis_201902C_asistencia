@@ -42,7 +42,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 |        | Martinez Peck, Pedro                  |            |
 |        | Moscatelli, Nahuel Agustin            |            |
 |        | Pais, Mariano Alberto                 |            |
-|        | Sanchez, Federico Matias              |            |
+| 33688  | Sanchez, Federico Matias              | P          |
 |        | San Martin Farias, Ivan Joshua        |            |
 |        | Valenzuela, Horacio Ezequiel          |            |
 |        | Villegas, Carlos Daniel Alejandro     |            |
