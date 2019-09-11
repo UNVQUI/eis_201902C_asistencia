@@ -44,6 +44,6 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 |        | Pais, Mariano Alberto                 |            |
 | 33688  | Sanchez, Federico Matias              | P          |
 |        | San Martin Farias, Ivan Joshua        |            |
-|        | Valenzuela, Horacio Ezequiel          |            |
+| 38613  | Valenzuela, Horacio Ezequiel          |     p      |
 |        | Villegas, Carlos Daniel Alejandro     |            |
 | 39804  | Garay, Juan Gabriel                   |  P         |
