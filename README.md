@@ -31,7 +31,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 |        | Bianchi, Matias Ezequiel              |            |
 | 39130  | Cameriere, Federico                   |     P      |
 |        | Chaile, Matias Ezequiel               |            |
-|        | Di Carlo, Leonardo Esteban            |            |
+| 38409  | Di Carlo, Leonardo Esteban            |     P      |
 |        | Gerez, Erica Vanesa                   |            |
 |        | Guasch, Gonzalo                       |            |
 |        | Lajcha, Juliana Andrea                |   P        |
