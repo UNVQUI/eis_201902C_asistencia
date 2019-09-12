@@ -1,4 +1,4 @@
-# Asistencia para la clase virtual del día 11/9/2019 materia EiS
+﻿# Asistencia para la clase virtual del día 11/9/2019 materia EiS
 
 Propósito: Ejercitar utilización de git.
 
@@ -45,5 +45,5 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 | 33688  | Sanchez, Federico Matias              | P          |
 |        | San Martin Farias, Ivan Joshua        |            |
 | 38613  | Valenzuela, Horacio Ezequiel          |     p      |
-|        | Villegas, Carlos Daniel Alejandro     |            |
+| 36683  | Villegas, Carlos Daniel Alejandro     |     P      |
 | 39804  | Garay, Juan Gabriel                   |  P         |
