@@ -40,7 +40,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 | 35327  | Mamani Jatabe, Luis Alejandro         |    P       |
 | 33450  | Marino, Mauro Emanuel                 |     P      |
 |        | Martinez Peck, Pedro                  |            |
-|        | Moscatelli, Nahuel Agustin            |            |
+| 31806  | Molina, Gonzalo Damián                |     P      |
 | 21128  | Pais, Mariano Alberto                 |     P      |
 | 33688  | Sanchez, Federico Matias              | P          |
 |        | San Martin Farias, Ivan Joshua        |            |
