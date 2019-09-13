@@ -32,7 +32,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 | 39130  | Cameriere, Federico                   |     P      |
 |        | Chaile, Matias Ezequiel               |            |
 | 38409  | Di Carlo, Leonardo Esteban            |     P      |
-|        | Gerez, Erica Vanesa                   |            |
+| 35096  | Gerez, Erica Vanesa                   |     P      |
 |        | Guasch, Gonzalo                       |            |
 |22536   | Lajcha, Juliana Andrea                |   P        |
 | 33405  | Lattanzio, Bruno Joaquin              |     P      |
