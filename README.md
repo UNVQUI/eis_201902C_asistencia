@@ -21,9 +21,9 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 
 - Acuerden con sus compañeros como se van a distribuir los períodos en los cuales van a subir los cambios al archivo `README.md`.
 
-## Lista de alumnos 
+## Lista de alumnos Comision #1
 
-| Legajo | Nombre y Apellido                     | 11/09/2019 |
+| Legajo | Nombre y Apellido                     | 11/09/2019 | 
 | :----: | :-----------------------------------: | :--------: |
 | 12345  | Prueba                                |   P        |
 |        | Aranguren, Cristian Martin            |            |
@@ -48,3 +48,47 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 | 38613  | Valenzuela, Horacio Ezequiel          |     p      |
 | 36683  | Villegas, Carlos Daniel Alejandro     |     P      |
 | 39804  | Garay, Juan Gabriel                   |  P         |
+
+## Lista de alumnos Comision #2
+
+| Legajo | Nombre y Apellido                     | 18/09/2019 | 
+| :----: | :-----------------------------------: | :--------: |
+| 12345  | Prueba                                |   P        |
+|        | Ale, Iara Karina                      |            |
+|        | Ayala, Laura Isabel                   |            |
+|        | Coronel, Braian Osmar                 |            |
+|        | Garay, Juan Gabriel                   |            |
+|        | Garcia, Rodrigo Nahuel                |            |
+|        | Jimenez, Melina Ayelen                |            |
+|        | Maritano, Maximiliano                 |            |
+|        | Martinez, Alan Leonardo               |            |
+|        | Michellon, Manuel Ignacio             |            |
+|        | Mitre Ortiz, Luis Maria               |            |
+|        | Molina, Gonzalo Damian                |            |
+|        | Mur Carames, Lucas Christopher        |            |
+|        | Rodriguez, Fernando Emanuel           |            |
+|        | Roldan, Jonatan Fernando              |            |
+|        | Salinas, Mauricio Ezequiel            |            |
+|        | Salvatore, Guillermo Nahuel           |            |
+|        | Sardi, Facundo                        |            |
+|        | Veron, Gonzalo Gabriel                |            |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
