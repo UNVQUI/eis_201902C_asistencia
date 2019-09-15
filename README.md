@@ -27,7 +27,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 | :----: | :-----------------------------------: | :--------: |
 | 12345  | Prueba                                |   P        |
 |        | Aranguren, Cristian Martin            |            |
-|        | Bianchi, Mauricio Osvaldo             |            |
+| 31593  | Bianchi, Mauricio Osvaldo             |     P      |
 |        | Bianchi, Matias Ezequiel              |            |
 | 39130  | Cameriere, Federico                   |     P      |
 |        | Chaile, Matias Ezequiel               |            |
