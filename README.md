@@ -64,7 +64,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 |        | Martinez, Alan Leonardo               |            |
 |        | Michellon, Manuel Ignacio             |            |
 |        | Mitre Ortiz, Luis Maria               |            |
-|        | Molina, Gonzalo Damian                |            |
+| 31806  | Molina, Gonzalo Damian                |     P      |
 |        | Mur Carames, Lucas Christopher        |            |
 |        | Rodriguez, Fernando Emanuel           |            |
 |        | Roldan, Jonatan Fernando              |            |
