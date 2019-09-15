@@ -60,7 +60,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 |        | Garay, Juan Gabriel                   |            |
 |        | Garcia, Rodrigo Nahuel                |            |
 |        | Jimenez, Melina Ayelen                |            |
-|        | Maritano, Maximiliano                 |            |
+| 23138  | Maritano, Maximiliano                 |     P      |
 |        | Martinez, Alan Leonardo               |            |
 |        | Michellon, Manuel Ignacio             |            |
 |        | Mitre Ortiz, Luis Maria               |            |
