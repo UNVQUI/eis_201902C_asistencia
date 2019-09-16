@@ -54,7 +54,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 | Legajo | Nombre y Apellido                     | 18/09/2019 | 
 | :----: | :-----------------------------------: | :--------: |
 | 12345  | Prueba                                |   P        |
-|        | Ale, Iara Karina                      |            |
+| 27073  | Ale, Iara Karina                      |   P        |
 |        | Ayala, Laura Isabel                   |            |
 |        | Coronel, Braian Osmar                 |            |
 |        | Garay, Juan Gabriel                   |            |
