@@ -70,7 +70,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 |        | Roldan, Jonatan Fernando              |            |
 |        | Salinas, Mauricio Ezequiel            |            |
 |        | Salvatore, Guillermo Nahuel           |            |
-|        | Sardi, Facundo                        |            |
+| 32342  | Sardi, Facundo                        |     P      |
 |        | Veron, Gonzalo Gabriel                |            |
 
 
