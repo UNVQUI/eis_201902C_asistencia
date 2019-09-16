@@ -30,7 +30,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 | 31593  | Bianchi, Mauricio Osvaldo             |     P      |
 | 39383  | Bianchi, Matias Ezequiel              |     P      |
 | 39130  | Cameriere, Federico                   |     P      |
-|        | Chaile, Matias Ezequiel               |            |
+| 38495  | Chaile, Matias Ezequiel               |     P      |
 | 38409  | Di Carlo, Leonardo Esteban            |     P      |
 | 35096  | Gerez, Erica Vanesa                   |     P      |
 |        | Guasch, Gonzalo                       |            |
