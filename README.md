@@ -65,7 +65,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 |        | Michellon, Manuel Ignacio             |            |
 |        | Mitre Ortiz, Luis Maria               |            |
 | 31806  | Molina, Gonzalo Damian                |     P      |
-|        | Mur Carames, Lucas Christopher        |            |
+| 36063  | Mur Carames, Lucas Christopher        |     P      |
 |        | Rodriguez, Fernando Emanuel           |            |
 |        | Roldan, Jonatan Fernando              |            |
 |        | Salinas, Mauricio Ezequiel            |            |
