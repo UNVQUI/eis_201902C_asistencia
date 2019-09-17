@@ -58,7 +58,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 |        | Ayala, Laura Isabel                   |            |
 |        | Coronel, Braian Osmar                 |            |
 |        | Garay, Juan Gabriel                   |            |
-|        | Garcia, Rodrigo Nahuel                |            |
+| 29328  | Garcia, Rodrigo Nahuel           	 |     P      |
 |        | Jimenez, Melina Ayelen                |            |
 | 23138  | Maritano, Maximiliano                 |     P      |
 |        | Martinez, Alan Leonardo               |            |
