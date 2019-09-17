@@ -26,7 +26,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 | Legajo | Nombre y Apellido                     | 11/09/2019 | 
 | :----: | :-----------------------------------: | :--------: |
 | 12345  | Prueba                                |   P        |
-|        | Aranguren, Cristian Martin            |            |
+| 33196  | Aranguren, Cristian Martin            |     p      |
 | 31593  | Bianchi, Mauricio Osvaldo             |     P      |
 | 39383  | Bianchi, Matias Ezequiel              |     P      |
 | 39130  | Cameriere, Federico                   |     P      |
