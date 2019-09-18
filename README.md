@@ -55,7 +55,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 | :----: | :-----------------------------------: | :--------: |
 | 12345  | Prueba                                |   P        |
 | 27073  | Ale, Iara Karina                      |   P        |
-|        | Ayala, Laura Isabel                   |            |
+| 29231  | Ayala, Laura Isabel                   |   P        |
 |        | Coronel, Braian Osmar                 |            |
 |        | Garay, Juan Gabriel                   |            |
 | 29328  | Garcia, Rodrigo Nahuel           	 |     P      |
