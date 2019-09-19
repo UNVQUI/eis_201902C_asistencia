@@ -63,7 +63,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 | 23138  | Maritano, Maximiliano                 |     P      |
 |        | Martinez, Alan Leonardo               |            |
 |        | Michellon, Manuel Ignacio             |            |
-|        | Mitre Ortiz, Luis Maria               |            |
+|        | Mitre Ortiz, Luis Maria               |     P      |
 | 31806  | Molina, Gonzalo Damian                |     P      |
 | 36063  | Mur Carames, Lucas Christopher        |     P      |
 |        | Rodriguez, Fernando Emanuel           |            |
