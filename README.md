@@ -67,7 +67,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 | 31806  | Molina, Gonzalo Damian                |     P      |
 | 36063  | Mur Carames, Lucas Christopher        |     P      |
 |        | Rodriguez, Fernando Emanuel           |            |
-|        | Roldan, Jonatan Fernando              |            |
+| 27913  | Roldan, Jonatan Fernando              |     P      |
 |        | Salinas, Mauricio Ezequiel            |            |
 |        | Salvatore, Guillermo Nahuel           |            |
 | 32342  | Sardi, Facundo                        |     P      |
