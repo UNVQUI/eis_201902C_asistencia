@@ -69,7 +69,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 |        | Rodriguez, Fernando Emanuel           |            |
 | 27913  | Roldan, Jonatan Fernando              |     P      |
 |        | Salinas, Mauricio Ezequiel            |            |
-|        | Salvatore, Guillermo Nahuel           |            |
+|        | Salvatore, Guillermo Nahuel           |     P      |
 | 32342  | Sardi, Facundo                        |     P      |
 |        | Veron, Gonzalo Gabriel                |            |
 
