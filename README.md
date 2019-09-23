@@ -66,7 +66,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 |        | Mitre Ortiz, Luis Maria               |     P      |
 | 31806  | Molina, Gonzalo Damian                |     P      |
 | 36063  | Mur Carames, Lucas Christopher        |     P      |
-|        | Rodriguez, Fernando Emanuel           |            |
+| 26604  | Rodriguez, Fernando Emanuel           |     p      |
 | 27913  | Roldan, Jonatan Fernando              |     P      |
 |        | Salinas, Mauricio Ezequiel            |            |
 | 27350  | Salvatore, Guillermo Nahuel           |     P      |
