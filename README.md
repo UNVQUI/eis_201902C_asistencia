@@ -61,7 +61,7 @@ Para hacer la entrega de la actividad en el campus de la materia van a necesitar
 | 29328  | Garcia, Rodrigo Nahuel           	 |     P      |
 | 24542  | Jimenez, Melina Ayelen                |     P      |
 | 23138  | Maritano, Maximiliano                 |     P      |
-|        | Martinez, Alan Leonardo               |            |
+| 28450  | Martinez, Alan Leonardo               |     P      |
 |        | Michellon, Manuel Ignacio             |            |
 |        | Mitre Ortiz, Luis Maria               |     P      |
 | 31806  | Molina, Gonzalo Damian                |     P      |
